@@ -1,4 +1,4 @@
-# CYS523 – CVE-2-Attack
+# CYS521 – Prompt_Injection_Defence
 
 ## Project Title
 Detecting and Mitigating Prompt Injection in LLM Chatbots: A Layered Defence with Adaptive Attack Evaluation
