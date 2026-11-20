@@ -6,7 +6,7 @@ Detecting and Mitigating Prompt Injection in LLM Chatbots: A Layered Defence wit
 ## Complete Project Download
 The complete project ZIP file, including the source code and supporting materials, is available through the university's OneDrive.
 
-[Download Complete Project ZIP File](https://buidxb-my.sharepoint.com/:u:/r/personal/25002683_student_buid_ac_ae/Documents/CYS521_submission.zip?d=w97e5f4b2de584a628ccef8281787fa24&csf=1&web=1&e=e3mUdR)
+[Download Complete Project ZIP File](https://buidxb-my.sharepoint.com/personal/25002683_student_buid_ac_ae/Documents/CYS521_submission.zip)
 
 **File:** CYS521_submission.zip
 
